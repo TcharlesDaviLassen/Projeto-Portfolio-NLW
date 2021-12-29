@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;500;700&display=swap');
+
+body {
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+}
+
+.ConteudoProfileImagem {
+    display: block;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+
+    width: 348px;
+    height: 292px;
+    left: 40px;
+    top: 40px;
+}
+
+.Links {
+    display: block;
+    flex-direction: column;
+    padding: 24px;
+}
+
+.Tecnologias {
+    display: block;
+    flex-direction: column;
+    padding: 24px;
+}
+
+.Experiencia{
+    display: block;
+    flex-direction: column;
+    padding: 24px;
+}
+
+.Education{
+    display: block;
+    flex-direction: column;
+    padding: 24px;
+}
+
+.Sec{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+}
+
+.Project{
+    position: absolute;
+    width: 952px;
+    height: 86px;
+    left: 448px;
+    top: 40px;
+}
+
+.Projeto2{
+    flex-direction: column;
+
+    position: absolute;
+    width: 430px;
+    height: 184px;
+    left: 480px;
+    top: 150px;
+
+    border-radius: 20px;
+}
+
+.Projeto3 {
+    position: absolute;
+    width: 430px;
+    height: 184px;
+    left: 939px;
+    top: 150px;
+}
+
+.RecentPosts {    
+    position: absolute;
+    width: 960px;
+    height: 86.2px;
+    left: 444px;
+    top: 360px;
+
+}
+
+.Post {
+    position: absolute;
+    width: 900px;
+    height: 193px;
+    left: 475px;
+    top: 473px;
+}
